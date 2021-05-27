@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lectri
-- 👀 I’m interested in game development, and getting better engineering in general.
-- 🌱 I’m currently learning C# to create Unity games at some point.
+- 👀 I’m interested in game development, and getting better at engineering in general.
+- 🌱 I’m currently learning using the pyglet module in Python to pratice making simple games, I'm working on Snake, and plan to work on minesweeper and tetris.
 - 💞️ I’m looking to collaborate on NOTHING. I am a lone wolf for now...
 - 📫 How to reach me - cmade2006@gmail.com
 
